@@ -1,0 +1,5 @@
+﻿  C-Programming.cpp
+C:\Users\dean1\Desktop\코딩\연습장\C-Programming\C-Programming\C-Programming.cpp(29,14): warning C4477: 'fscanf' : 서식 문자열 '%lf'에 'double *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+C:\Users\dean1\Desktop\코딩\연습장\C-Programming\C-Programming\C-Programming.cpp(30,10): warning C4477: 'printf' : 서식 문자열 '%f'에 'double' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int'입니다.
+C:\Users\dean1\Desktop\코딩\연습장\C-Programming\C-Programming\C-Programming.cpp(12,7): warning C4101: 'ch' :참조되지 않은 지역 변수입니다.
+  C-Programming.vcxproj -> C:\Users\dean1\Desktop\코딩\연습장\C-Programming\x64\Debug\C-Programming.exe
